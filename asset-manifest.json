@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/porfolio-reactjs/static/css/main.584f321a.chunk.css",
-    "main.js": "/porfolio-reactjs/static/js/main.1a030fd0.chunk.js",
-    "main.js.map": "/porfolio-reactjs/static/js/main.1a030fd0.chunk.js.map",
-    "runtime-main.js": "/porfolio-reactjs/static/js/runtime-main.51df8bfe.js",
-    "runtime-main.js.map": "/porfolio-reactjs/static/js/runtime-main.51df8bfe.js.map",
-    "static/js/2.46dd7617.chunk.js": "/porfolio-reactjs/static/js/2.46dd7617.chunk.js",
-    "static/js/2.46dd7617.chunk.js.map": "/porfolio-reactjs/static/js/2.46dd7617.chunk.js.map",
-    "index.html": "/porfolio-reactjs/index.html",
-    "precache-manifest.6c570c9ba2129956b96a86e6e8b32a10.js": "/porfolio-reactjs/precache-manifest.6c570c9ba2129956b96a86e6e8b32a10.js",
-    "service-worker.js": "/porfolio-reactjs/service-worker.js",
-    "static/css/main.584f321a.chunk.css.map": "/porfolio-reactjs/static/css/main.584f321a.chunk.css.map"
+    "main.css": "/porftolio-reactjs/static/css/main.584f321a.chunk.css",
+    "main.js": "/porftolio-reactjs/static/js/main.955d4dd9.chunk.js",
+    "main.js.map": "/porftolio-reactjs/static/js/main.955d4dd9.chunk.js.map",
+    "runtime-main.js": "/porftolio-reactjs/static/js/runtime-main.74cc8083.js",
+    "runtime-main.js.map": "/porftolio-reactjs/static/js/runtime-main.74cc8083.js.map",
+    "static/js/2.46dd7617.chunk.js": "/porftolio-reactjs/static/js/2.46dd7617.chunk.js",
+    "static/js/2.46dd7617.chunk.js.map": "/porftolio-reactjs/static/js/2.46dd7617.chunk.js.map",
+    "index.html": "/porftolio-reactjs/index.html",
+    "precache-manifest.5ed346ea784111370cdd05dfafa500ba.js": "/porftolio-reactjs/precache-manifest.5ed346ea784111370cdd05dfafa500ba.js",
+    "service-worker.js": "/porftolio-reactjs/service-worker.js",
+    "static/css/main.584f321a.chunk.css.map": "/porftolio-reactjs/static/css/main.584f321a.chunk.css.map"
   }
 }
