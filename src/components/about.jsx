@@ -20,8 +20,8 @@ export default class About extends Component {
                         I'm not able to create a nice webpage from scratch using React at the moment. But I know how to navigate within the data folder structure and utilize template to modify the content to fit into my own context. Not sure if this is allowable... 
                         On a Saturday night a week before the deadline, after putting my girls to bed, I started to update the React template that I like more seriously with a thought of nothing to lose even if it didn't get through.
                         I find the template is beautifully designed and can be a nice one for me to outline my own work histories.</p>
-                    <p>Apparently utilizing a template could be very time-consuming as well. After sorting out the dependencies and put my content in, the deployment to github page took much longer hours than the actual updating work itself. 
-                        The experience of getting this simple webpage works has leaded me to appreciate even more on webpages that we visit daily. There are so much works behind the scene to orchestra the entire workflow and ensure the framework works and nothing breaks.
+                    <p>Apparently utilizing a template could be very time-consuming as well. After sorting out the dependencies and put my content in, the deployment to github page took much longer hours than expected. The experience of getting this simple webpage works 
+                        has leaded me to appreciate even more on webpages that we visit daily. There are so much works behind the scene to orchestra the entire workflow and ensure the framework works and nothing breaks.
                         The completion of a technical assignment could be scary at the beginning especially when the topic is totally new to me, but the accomplishment of it does bring great joy and satisfaction as well. It's an indication of conquering another learning obstacle. </p>
                     <p>Here it is, my very first React webpage about myself and my application to TechLadies Bootcamp #5</p>
                     </div>
@@ -30,84 +30,45 @@ export default class About extends Component {
             </div>
             </div>
         </div>
-        </section>
-        <section className="colorlib-about">
+        {/* </section>
+        <section className="colorlib-about"> */}
         <div className="colorlib-narrow-content">
             <div className="row">
             <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
-                <span className="heading-meta">Where I learn?</span>
-                <h2 className="colorlib-heading">Here are some of my education journeys</h2>
+                <h2 className="colorlib-heading">Contact Channels</h2>
             </div>
             </div>
             <div className="row row-pt-md">
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-1">
                 <span className="icon">
-                    <i className="icon-bulb" />
+                    <i className="icon-linkedin2" />
                 </span>
                 <div className="desc">
-                    <h3>Data Science Immersive</h3>
-                    <p>General Assembly, Singapore</p>
-                </div>
-                </div>
-            </div>
-            <div className="col-md-4 text-center animate-box">
-                <div className="services color-3">
-                <span className="icon">
-                    <i className="icon-phone3" />
-                </span>
-                <div className="desc">
-                    <h3>Materials Science and Engineering</h3>
-                    <p>National University of Singapore</p>
-                </div>
-                </div>
-            </div>
-            <div className="col-md-4 text-center animate-box">
-                <div className="services color-5">
-                <span className="icon">
-                    <i className="icon-data" />
-                </span>
-                <div className="desc">
-                    <h3>Chemical Engineering</h3>
-                    <p>University Science of Malaysia</p>
-                </div>
-                </div>
-            </div>
-            {/*
-            <div className="col-md-4 text-center animate-box">
-                <div className="services color-2">
-                <span className="icon">
-                    <i className="icon-data" />
-                </span>
-                <div className="desc">
-                    <h3>Dev Ops</h3>
-                    <p>Jenkins , Kubernetes , Docker </p>
+                    <p><a href="https://www.linkedin.com/in/siewlinyap" target="_blank" rel="noopener noreferrer">LinkedIn</a></p>
                 </div>
                 </div>
             </div>
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-4">
                 <span className="icon">
-                    <i className="icon-layers2" />
+                    <i className="icon-github" />
                 </span>
                 <div className="desc">
-                    <h3>Graphic Design</h3>
-                    <p>My friend knows .. P</p>
+                    <p><a href="https://siewlinyap.github.io" target="_blank" rel="noopener noreferrer">GitHub</a></p>
                 </div>
                 </div>
             </div>
             <div className="col-md-4 text-center animate-box">
-                <div className="services color-6">
+                <div className="services color-5">
                 <span className="icon">
-                    <i className="icon-phone3" />
+                    <i className="icon-mail" />
                 </span>
                 <div className="desc">
-                    <h3>Digital Marketing</h3>
-                    <p>I use Instagram eight hours a day :) </p>
+                    <p>siewlin2009@gmail.com</p>
                 </div>
                 </div>
             </div>
-            */}
             </div>
         </div>
         </section>
