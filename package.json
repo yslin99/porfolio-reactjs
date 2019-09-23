@@ -2,7 +2,7 @@
   "name": "portfolio-reactjs",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yslin99.github.io/portfolio-reactjs",
+  "homepage": "https://yslin99.github.io/portfolio-reactjs/",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.9.0",

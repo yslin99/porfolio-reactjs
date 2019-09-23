@@ -24,7 +24,7 @@ export default class Timeline extends Component {
                         <h2>AI Apprentice @ AI Singapore<span>    Mar 2019 - Dec 2019</span></h2>
                         <ul>
                           <li>Structured coursework involving programming, modelling and deployment</li>
-                          <li>Project assignment for the development of minimum viable product supporting 100Experiments programme</li>
+                          <li>Project assignment for the development of minimum viable product supporting 100 Experiments programme</li>
                         </ul>
                       </div>
                     </div>
@@ -56,6 +56,8 @@ export default class Timeline extends Component {
                           <li>Material landscape, roadmap strategy and direction setting across various package platforms</li>
                           <li>Expert review on critical projects, harmonization tasks across platforms, material change / disaster management for In-house and consultation to SubCon Development</li>
                           <li>Define technical specification for development of new material and released material</li>
+                          <li>Characterisation, development and qualification of pioneer release on Pd-coated Cu wire</li>
+                          <li>Collaboration work with Institute of Material Research and Engineering @ Singapore, Fraunhofer Institute @ Germany for testing and developing new characterisation methods</li>
                         </ul>
                       </div>
                     </div>
