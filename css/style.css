@@ -22,7 +22,7 @@ body {
       font-size: 16px; } }
 
 a {
-  color: #2c98f0;
+  color: #080808;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s; }
@@ -643,9 +643,9 @@ body.offcanvas {
     .services.color-3 .icon2 i {
       color: #f9bf3f; }
   .services.color-4 {
-    border-bottom: 2px solid #a84cb8; }
+    border-bottom: 2px solid #080808; }
     .services.color-4 .icon2 i {
-      color: #a84cb8; }
+      color: #080808; }
   .services.color-5 {
     border-bottom: 2px solid #2fa499; }
   .services.color-6 {
@@ -712,11 +712,11 @@ body.offcanvas {
     .services.color-3 .icon:after {
       border-color: #f9bf3f transparent transparent transparent; }
   .services.color-4 .icon {
-    background: #a84cb8; }
+    background: #080808; }
     .services.color-4 .icon:before {
-      border-color: transparent transparent #a84cb8 transparent; }
+      border-color: transparent transparent #080808 transparent; }
     .services.color-4 .icon:after {
-      border-color: #a84cb8 transparent transparent transparent; }
+      border-color: #080808 transparent transparent transparent; }
   .services.color-5 .icon {
     background: #2fa499; }
     .services.color-5 .icon:before {
