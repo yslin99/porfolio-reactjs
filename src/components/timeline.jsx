@@ -25,6 +25,7 @@ export default class Timeline extends Component {
                         <ul>
                           <li>Structured coursework involving programming, modelling and deployment</li>
                           <li>Project assignment for the development of minimum viable product supporting 100 Experiments programme</li>
+                          <li>Applying machine learning and natural language processing to develop an AI-based model to enhance search query understanding and resolution for travel industry</li>
                         </ul>
                       </div>
                     </div>
@@ -41,6 +42,7 @@ export default class Timeline extends Component {
                           <li>Develop performance dashboards for descriptive and diagnostic of manufacturing data</li>
                           <li>Drive operation efficiency aligning to corporate overall target</li>
                           <li>Explore, strategize and implement analytical use cases with business segments</li>
+                          <li>Develop customized automation scripts for dashboard maintenance and various source synchronization</li>
                         </ul>
                       </div>
                     </div>

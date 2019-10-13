@@ -1,6 +1,7 @@
 # PORTFOLIO - using React.js 
 
-This is the implementation code for TechLadies BootCamp #5 Frontend Focused technical assignment.
+This is originally an implementation code for application to TechLadies Bootcamp. It is then modified to reflect the latest change with content updated following the outcome of the application status.
+
 
 Reference : 
 - https://www.freecodecamp.org/news/portfolio-app-using-react-618814e35843/
